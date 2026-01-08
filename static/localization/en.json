@@ -950,7 +950,10 @@
       "noUrlErrorMessage": "Please enter a valid URL and reload your app.",
       "noUrlErrorTitle": "No URL",
       "unsupportedLinkTitle": "Failed to open link",
-      "unsupportedLinkMessage": "Unsupported link type"
+      "unsupportedLinkMessage": "Unsupported link type",
+      "downloadingPdfFileMessage": "Downloading PDF file",
+      "pdfDownloadErrorTitle": "Failed to download PDF file.",
+      "pdfDownloadErrorMessage": "The PDF file you're trying to preview might not exist or the URL is invalid."
     },
     "wordpress": {
       "upNext": "UP NEXT"
